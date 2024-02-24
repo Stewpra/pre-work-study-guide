@@ -6,7 +6,7 @@ This project was build to serve as a study guide to me throughout the bootcamp. 
 
 ## Installation
 
-N/A
+ N/A
 
 ## Usage
 
@@ -14,8 +14,9 @@ To use the website you can review the notes from any of the 4 sections. To choos
 
 ## Credits
 
-N/A
+ N/A
 
 ## License
 
 Please refer to the LICENSE in the repo.
+ 
